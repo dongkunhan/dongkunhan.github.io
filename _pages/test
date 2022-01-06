@@ -1,0 +1,40 @@
+---
+layout: archive
+title: "Research"
+permalink: /test.html
+author_profile: true
+---
+
+{% include base_path %}
+<p> 
+My research interests lie in the intersection of <b>control theory</b>, <b>robotics</b>, and <b>machine learning</b>. More specifically, my Ph.D. research focuses on the provably safe collaboration of multiple robots (quadrotors and mobile robots), and safe learning based control techniques for robotics. <br>
+</p> 
+
+<p> 
+R1. <b> Safe Certificate-Based Maneuvers for Teams of Quadrotors </b> <br>
+* Developed safety control certificates to ensure safe aggressive maneuvers of multi-quadrotor and mobile robot swarms <br>
+* Implemented safety certificates on teams of quadrotors and robots with Robot Operating System (ROS) (C++, Python). <br>
+* Programmed stable hovering and trajectory tracking of quadrotors with Extended Kalman Filter and sensor fusion.
+</p>
+
+<iframe style="overflow:hidden;height:70%;width:70%" width="500" height="300" src="https://www.youtube.com/embed/pmZZzIXIIsc" frameborder="0" allowfullscreen></iframe>
+
+<p> 
+R2. <b> Safe Learning of Quadrotor Dynamics with Barrier Certificates </b> <br>
+* Developed online learning method for highly nonlinear quadrotor dynamics using recursive online Gaussian Process. <br>
+* Designed safe control certificates for the quadrotor to learn unknown wind field with safety guarantees. <br>
+* Implemented Extended Kalman Filter to estimate the states of quadrotors with motion tracking and IMU data.
+<br>
+* Implemented learning algorithms based on LWPR, Gaussian Process, Sparse Spectrum GP, and Eigen GP.
+</p> 
+<iframe style="overflow:hidden;height:70%;width:70%" width="400" height="250" src="https://www.youtube.com/embed/ExiaoUDiKFQ" frameborder="0" allowfullscreen></iframe>
+
+<p> 
+R3. <b> Safe Swarm Robotic and Multi-objective Compositions </b> <br >
+* Developed multi-objective composition strategy for provably safe and connected multi-robot collaboration. <br>
+* Designed Sum-of-Squares (SOS) programming based optimization algorithm to search for permissive barrier certificates. <br>
+* Implemented multi-objective composition algorithms on multiple Khepera III robots and Magellan Pro robots.  <br>
+* Integrated real-time control and communication between different robots and devices on Robot Operating System (ROS). <br>
+</p> 
+<iframe  style="overflow:hidden;height:70%;width:70%" width="500" height="300" src="https://www.youtube.com/embed/2uujKTU0TYE" frameborder="0" allowfullscreen></iframe>
+
