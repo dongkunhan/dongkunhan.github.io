@@ -11,9 +11,9 @@ title                    : "Dr. Han Dongkun"
 title_separator          : "-"
 name                     : &name "Dongkun Han"
 description              : &description "personal website"
-url                      : https://duncanhan08.github.io/ 
+url                      : https://dongkunhan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "duncanhan08/duncanhan08.github.io"
+repository               : "duncanhan08/dongkunhan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
