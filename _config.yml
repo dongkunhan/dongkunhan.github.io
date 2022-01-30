@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dongkun Han"
   avatar           : "dongkunhan.jpg"
-#  bio              : "Your biography for the left-hand sidebar"
-#  location         : "Hong Kong"
+  bio              : #"Your biography for the left-hand sidebar"
+  location         : 
   employer         : "Department of Mechanical and Automation Engineering, CUHK"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
