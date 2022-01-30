@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dongkun Han"
   avatar           : "dongkunhan.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Hong Kong"
-  employer         : "MAE@CUHK, N.T., HKSAR"
+#  bio              : "Your biography for the left-hand sidebar"
+#  location         : "Hong Kong"
+  employer         : "Department of Mechanical and Automation Engineering, CUHK"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "dkhan@mae.cuhk.edu.hk"
+    email            : dkhan@mae.cuhk.edu.hk
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
