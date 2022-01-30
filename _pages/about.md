@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Dongkun Han is currently a lecturer at the [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). He earned his Ph.D. degree in the [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/) from the [University of Hong Kong](https://www.hku.hk/). He was a research associate at the Department of Informatics, Technical University of Munich, Germany, and a research fellow at the Department of Aerospace Engineering, the University of Michigan, Ann Arbor, United States. From 2013 to 2014, he was an exchange research student at Information Systems Laboratory, Stanford University, USA. In 2015, he was a visiting academic faculty at the Department of Electrical Engineering, German Institute of Science and Technology-TUM Asia, Singapore. He joined the Department of Mechanical and Automation Engineering, the Chinese University of Hong Kong in 2017. The focus of his research is on the cooperative control of multi-agent systems, synchronization of complex networks, robustness of uncertain systems, and stability of nonlinear systems.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
