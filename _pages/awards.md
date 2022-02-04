@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* **Gold Winner for the Technology Innovation Award** 
+* **Gold Award in the Technology Innovation Category** 
 
     “An Intelligent Cloud Teacher for Unmanned Robotic Online Laboratory” in the 16th eLearning Forum Asia (12/2021)
 
@@ -19,9 +19,21 @@ author_profile: true
 
     “An E-Learning Platform for Junior Teachers and Teaching Assistants in the Faculty of Engineering” in Teaching and Learning Innovation Expo 2021, CUHK (08/2021)
 
-* **Silver Award in Pedagogical Innovation Category** 
+* **Best Poster Award** 
 
-    “An Intelligent Cloud Teacher for Unmanned Robotic Online Laboratory” in Teaching and Learning Innovation Expo 2021, CUHK (08/2021)
+    “Flipped Online Laboratory for Making Students’ First Robot” in Teaching and Learning Innovation Expo 2019/2020, CUHK (08/2020)
+
+* **University Education Award--Finalist** 
+
+    University Education Award in Early Career Faculty Members Category, CUHK (04/2020)
+
+* **Dean’s Exemplary Teaching Award 2019** 
+
+    Faculty of Engineering, CUHK (01/2020)
+
+
+
+
 
 <img src="/images/poster_commendation_award_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
 
