@@ -9,7 +9,7 @@ author_profile: true
 
 * **Gold Winner for the Technology Innovation Award** 
 
-in the 16th eLearning Forum Asia (12/2021)
+    in the 16th eLearning Forum Asia (12/2021)
 
 <img src="/images/poster_commendation_award_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
 
