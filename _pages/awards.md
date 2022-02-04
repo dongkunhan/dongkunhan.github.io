@@ -6,10 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-# * Dean’s Exemplary Teaching Award 2021	(01/2022)
 
-* **Gold Winner for the Technology Innovation Award** (12/2021)
-  in the 16th eLearning Forum Asia 2021
+* **Gold Winner for the Technology Innovation Award** 
+  in the 16th eLearning Forum Asia (12/2021)
 
 <img src="/images/poster_commendation_award_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
 
