@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-E1. 2019 O. Hugo Schuck Best Paper Award by the American Automatic Control Council.
+* Dean’s Exemplary Teaching Award 2021	(01/2022)
 
 E2. IEEE International Conference on Robotics and Automation (ICRA) 2017,  Best Multi-Robot Systems Paper Award, Best Conference Paper Award Finalist
 
