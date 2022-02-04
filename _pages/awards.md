@@ -10,7 +10,7 @@ E1. 2019 O. Hugo Schuck Best Paper Award by the American Automatic Control Counc
 
 E2. IEEE International Conference on Robotics and Automation (ICRA) 2017,  Best Multi-Robot Systems Paper Award, Best Conference Paper Award Finalist
 
-<img src="/images/poster_commendation_award_tlexpo2018.jpg" alt="IEEE" style="width:500px;height:300px;">
+<img src="/images/poster_commendation_award_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
 
 E3. Jenny H. Krauss Fellowship 2014: Awarded to top Georgia Tech graduate students with excellent academic record
 
@@ -20,4 +20,4 @@ E4. Top winner of BlueCompetition 2013: A worldwide competition sponsored by Blu
 E5. Chinese National Scholarship: Awarded to top 2% college students by the Chinese Ministry of Education
 
 E6. China National Innovation Grants: Awarded to teams of undergraduates with innovative research projects
-<img src="/images/eta_general_education_2018.jpg" alt="IEEE" style="width:500px;height:300px;">
+<img src="/images/eta_general_education_2018.jpg" alt="IEEE" style="width:500px;height:400px;">
