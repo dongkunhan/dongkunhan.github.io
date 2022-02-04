@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-* **Gold Award in the Technology Innovation Category** 
+* **Courseware Development Grant** Micro-Modules Development on Safety Training for Undergraduate Students in The Faculty of Engineering
 
-    “An Intelligent Cloud Teacher for Unmanned Robotic Online Laboratory” in the 16th eLearning Forum Asia (12/2021)
+    **Principle Investigator**, The Chinese University of Hong Kong, 10/2021-4/2022, HKD$75,608
 
-* **Silver Award in Pedagogical Innovation Category** 
+* **SDGs-related Experiential Learning Activities Fund 2021** Final Project Expo: Solar Powered Cars Racing 
 
-    “An E-Learning Platform for Junior Teachers and Teaching Assistants in the Faculty of Engineering” in Teaching and Learning Innovation Expo 2021, CUHK (08/2021)
+    Principle Investigator, The Chinese University of Hong Kong, 9/2021-12/2021, HKD$23,168
