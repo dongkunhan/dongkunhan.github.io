@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: "Selected awards"
 permalink: /awards/
 author_profile: true
 ---
@@ -31,18 +31,19 @@ author_profile: true
 
     Faculty of Engineering, CUHK (01/2020)
 
+* **Exemplary Teaching Award in General Education 2018** 
 
+    Senate Committee on General Education, CUHK (05/2019)
+<img src="/images/eta_general_education_2018.jpg" alt="IEEE" style="width:591px;height:443px;">
 
+* **People’s Prize** 
 
-
-<img src="/images/poster_commendation_award_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
-
-E3. Jenny H. Krauss Fellowship 2014: Awarded to top Georgia Tech graduate students with excellent academic record
-
-E4. Top winner of BlueCompetition 2013: A worldwide competition sponsored by BlueSens Gas Sensor GmbH(Germany)
+    “Mobile eLearning and Manipulating for Making the Students’ First Robot” in Teaching and Learning Innovation Expo 2018, CUHK (12/2018)
 <img src="/images/peoples_prize_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
 
-E5. Chinese National Scholarship: Awarded to top 2% college students by the Chinese Ministry of Education
+* **Poster Commendation Award** 
 
-E6. China National Innovation Grants: Awarded to teams of undergraduates with innovative research projects
-<img src="/images/eta_general_education_2018.jpg" alt="IEEE" style="width:591px;height:443px;">
+    “Mobile eLearning and Manipulating for Making the Students’ First Robot” in Teaching and Learning Innovation Expo 2018, CUHK (12/2018)
+<img src="/images/poster_commendation_award_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
+
+
