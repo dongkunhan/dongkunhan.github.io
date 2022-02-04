@@ -21,7 +21,7 @@ Faculty Foundation Course
 
 * **ENGG1820 Engineering Entrepreneurship** 
 
-* **ESTR1006 Multivariable Calculus for Engineers** 
+* **ESTR1006 Multivariable Calculus for Engineers** (for elite stream students)
 
 Department Course
 -----------------
