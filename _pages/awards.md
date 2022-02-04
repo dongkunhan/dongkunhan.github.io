@@ -31,6 +31,10 @@ author_profile: true
 
     Faculty of Engineering, CUHK (01/2020)
 
+* **O. Hugo Schuck Best Paper Award** 
+
+    American Control Conference, American Automatic Control Council (07/2019)
+
 * **Exemplary Teaching Award in General Education 2018** 
 
     Senate Committee on General Education, CUHK (05/2019)
