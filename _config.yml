@@ -83,12 +83,12 @@ author:
   name             : "Dongkun Han"
   avatar           : "dongkunhan.jpg"
 #  bio              : "Your biography for the left-hand sidebar"
-  location         : "Hong Kong SAR"
-  employer         : "MAE@CUHK"
+#  location         : "Hong Kong SAR"
+#  employer         : "MAE@CUHK"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-    email            : dkhan@mae.cuhk.edu.hk
-  researchgate     : "https://www.researchgate.net/profile/Dongkun-Han"
+#    email            : dkhan@mae.cuhk.edu.hk
+#  researchgate     : "https://www.researchgate.net/profile/Dongkun-Han"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,10 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-#   orcid            : "http://orcid.org/yourorcidurl"
+#   orcid            : "https://orcid.org/0000-0003-0336-9818"
   pinterest        :
   soundcloud       :
-#   stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   stackoverflow    :  http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
 #   twitter          : "replacethistwitterhandle"
