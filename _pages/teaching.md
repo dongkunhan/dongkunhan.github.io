@@ -10,10 +10,11 @@ author_profile: true
 Faculty Service Course
 ----------------------
 
-* **Gold Award in the Technology Innovation Category** 
+* **ENGG1910 Demystifying AI** (with Prof. LEE Tan) 
 
-    “An Intelligent Cloud Teacher for Unmanned Robotic Online Laboratory” in the 16th eLearning Forum Asia (12/2021)
+Faculty Foundation Course
+----------------------
 
-* **Silver Award in Pedagogical Innovation Category** 
+* **ENGG1130 Multivariable Calculus for Engineers ** 
 
-    “An E-Learning Platform for Junior Teachers and Teaching Assistants in the Faculty of Engineering” in Teaching and Learning Innovation Expo 2021, CUHK (08/2021)
+* ENGG1820 Engineering Entrepreneurship 
