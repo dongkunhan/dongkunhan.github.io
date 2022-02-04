@@ -15,6 +15,6 @@ Faculty Service Course
 Faculty Foundation Course
 ----------------------
 
-* **ENGG1130 Multivariable Calculus for Engineers ** 
+* **ENGG1130 Multivariable Calculus for Engineers** 
 
 * ENGG1820 Engineering Entrepreneurship 
