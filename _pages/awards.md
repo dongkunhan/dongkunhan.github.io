@@ -35,15 +35,17 @@ author_profile: true
 
     Senate Committee on General Education, CUHK (05/2019)
 <img src="/images/eta_general_education_2018.jpg" alt="IEEE" style="width:591px;height:443px;">
+(Photo 3: CUHK General Education Exemplary Teaching Award ceremony)
 
 * **People’s Prize** 
 
     “Mobile eLearning and Manipulating for Making the Students’ First Robot” in Teaching and Learning Innovation Expo 2018, CUHK (12/2018)
 <img src="/images/peoples_prize_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
+(Photo 2: CUHK Teaching and Learning Innovation Expo 2018 poster award ceremony)
 
 * **Poster Commendation Award** 
 
     “Mobile eLearning and Manipulating for Making the Students’ First Robot” in Teaching and Learning Innovation Expo 2018, CUHK (12/2018)
 <img src="/images/poster_commendation_award_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
-
+(Photo 1: CUHK Teaching and Learning Innovation Expo 2018 poster award ceremony)
 
