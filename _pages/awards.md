@@ -15,6 +15,14 @@ author_profile: true
 
     “An E-Learning Platform for Junior Teachers and Teaching Assistants in the Faculty of Engineering” in Teaching and Learning Innovation Expo 2021, CUHK (08/2021)
 
+* **People’s Prize** 
+
+    “An E-Learning Platform for Junior Teachers and Teaching Assistants in the Faculty of Engineering” in Teaching and Learning Innovation Expo 2021, CUHK (08/2021)
+
+* **Silver Award in Pedagogical Innovation Category** 
+
+    “An Intelligent Cloud Teacher for Unmanned Robotic Online Laboratory” in Teaching and Learning Innovation Expo 2021, CUHK (08/2021)
+
 <img src="/images/poster_commendation_award_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
 
 E3. Jenny H. Krauss Fellowship 2014: Awarded to top Georgia Tech graduate students with excellent academic record
