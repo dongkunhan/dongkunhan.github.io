@@ -11,7 +11,7 @@ title                    : "Dr. Han Dongkun"
 title_separator          : "-"
 name                     : &name "Dongkun Han"
 description              : &description "personal website"
-url                      : https://dongkunhan.github.io
+url                      : https://dongkunhan.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dongkunhan/dongkunhan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
