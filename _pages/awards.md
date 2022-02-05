@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* **Gold Award in the Technology Innovation Category** 
+* **Gold Award in Technology Innovation Category** 
 
     “An Intelligent Cloud Teacher for Unmanned Robotic Online Laboratory” in the 16th eLearning Forum Asia (12/2021)
 
