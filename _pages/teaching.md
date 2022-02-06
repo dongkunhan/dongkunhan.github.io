@@ -7,11 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Faculty Service Course
+**Faculty Service Course**{: style="color: blue; opacity: 0.60;" }
 ----------------------
 
 * **ENGG1910 Demystifying AI** (with Prof. LEE Tan) 
-* **My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
 
 Faculty Foundation Course
 ----------------------
