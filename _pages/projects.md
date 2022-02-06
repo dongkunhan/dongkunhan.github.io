@@ -17,7 +17,7 @@ author_profile: true
 
 * **Teaching Development and Language Enhancement Grant, Funding Scheme for Virtual Teaching and Learning**, Innovative E-Learning Platforms and Tools for Effective Integration of VTL in Engineering Education
 
-    **Co-Investigator**, The Chinese University of Hong Kong, 7/2021-6/2023, HKD$1,041,275
+  **Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, The Chinese University of Hong Kong, 7/2021-6/2023, HKD$1,041,275
 
 * **SDGs-related Experiential Learning Activities Fund 2020**, Students’ Virtual Final Project Competition on Real Solar Powered Automobile Development
 
