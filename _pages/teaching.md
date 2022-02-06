@@ -12,7 +12,7 @@ author_profile: true
 
 * **ENGG1910 Demystifying AI** (with Prof. LEE Tan) 
 
-Faculty Foundation Course
+**Faculty Foundation Course**{: style="color: RoyalBlue; opacity: 0.90;" }
 ----------------------
 
 * **ENGG1130 Multivariable Calculus for Engineers** 
@@ -23,7 +23,7 @@ Faculty Foundation Course
 
 * **ESTR1006 Multivariable Calculus for Engineers** (for elite stream students)
 
-Department Course
+**Department Course**{: style="color: RoyalBlue; opacity: 0.90;" }
 -----------------
 
 * **MAEG2601 Technology, Society and Engineering Practice** 
@@ -36,7 +36,7 @@ Department Course
 
 * **ELEG3207 Introduction to Power Electronics**
 
-General Education Course
+**General Education Course**{: style="color: RoyalBlue; opacity: 0.90;" }
 ------------------------
 
 * **GENA1113 Student-Oriented Teaching and Seminar** 
