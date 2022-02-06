@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Faculty Service Course**{: style="color: blue; opacity: 0.45;" }
+**Faculty Service Course**{: style="color: blue; opacity: 0.60;" }
 ==========================
 
 * **ENGG1910 Demystifying AI** (with Prof. LEE Tan) 
