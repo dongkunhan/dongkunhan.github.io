@@ -57,7 +57,7 @@ B5. D. Han and G. Chesi. Homogeneous polynomial Lyapunov functions for robust lo
 
 B6. D. Han, G. Chesi, and Y. S. Hung. Robust consensus for a class of uncertain multi-agent dynamical systems. **IEEE Transactions on Industrial Informatics**{: style="color: RoyalBlue;"}, 9(1):306-312, 2013.
 
-B7. D. Han and G. Chesi. Synchronization conditions for multi-agent systems with intrinsic nonlinear dynamics. **IEEE Trans. on Circuits and Systems II**{: style="color: RoyalBlue;"}, 60(4):227-231, 2013.
+B7. D. Han and G. Chesi. Synchronization conditions for multi-agent systems with intrinsic nonlinear dynamics. **IEEE Transactions on Circuits and Systems II**{: style="color: RoyalBlue;"}, 60(4):227-231, 2013.
 
 B8. D. Han and Y. Zhang. Comprehensive optimization of static/dynamic reactive power for receiving-end network. **Electric Power Automation Equipment**{: style="color: RoyalBlue;"}, 29(3):32-35, 2009.
 
