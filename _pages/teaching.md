@@ -30,6 +30,8 @@ author_profile: true
 
 * **MAEG2602 Professional Practicum** 
 
+* **MAEG4999 Final Year Project**
+
 * **MAEG5910 MSc Projects** 
 
 * **ELEG2202 Fundamentals of Electric Circuits**
