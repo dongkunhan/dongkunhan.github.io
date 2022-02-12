@@ -9,23 +9,23 @@ author_profile: true
 
 * **Gold Award in Technology Innovation Category**{: style="color: RoyalBlue;"} 
 
-    “An Intelligent Cloud Teacher for Unmanned Robotic Online Laboratory” in the 16th eLearning Forum Asia (12/2021)
+    “An Intelligent Cloud Teacher for Unmanned Robotic Online Laboratory” in the [16th eLearning Forum Asia](https://awards.elfasia.org/pastawardswinner) (12/2021)
 
 * **Silver Award in Pedagogical Innovation Category**{: style="color: RoyalBlue;"} 
 
-    “An E-Learning Platform for Junior Teachers and Teaching Assistants in the Faculty of Engineering” in Teaching and Learning Innovation Expo 2021, CUHK (08/2021)
+    “An E-Learning Platform for Junior Teachers and Teaching Assistants in the Faculty of Engineering” in [Teaching and Learning Innovation Expo 2021](https://www.cuhk.edu.hk/eLearning/expo2021/poster-awards/), CUHK (08/2021)
 
 * **People’s Prize**{: style="color: RoyalBlue;"} 
 
-    “An E-Learning Platform for Junior Teachers and Teaching Assistants in the Faculty of Engineering” in Teaching and Learning Innovation Expo 2021, CUHK (08/2021)
+    “An E-Learning Platform for Junior Teachers and Teaching Assistants in the Faculty of Engineering” in [Teaching and Learning Innovation Expo 2021](https://www.cuhk.edu.hk/eLearning/expo2021/poster-awards/), CUHK (08/2021)
 
 * **Silver Award in Pedagogical Innovation Category**{: style="color: RoyalBlue;"} 
 
-    “An Intelligent Cloud Teacher for Unmanned Robotic Online Laboratory” in Teaching and Learning Innovation Expo 2021, CUHK (08/2021)
+    “An Intelligent Cloud Teacher for Unmanned Robotic Online Laboratory” in [Teaching and Learning Innovation Expo 2021](https://www.cuhk.edu.hk/eLearning/expo2021/poster-awards/), CUHK (08/2021)
 
 * **Best Poster Award**{: style="color: RoyalBlue;"} 
 
-    “Flipped Online Laboratory for Making Students’ First Robot” in Teaching and Learning Innovation Expo 2019/2020, CUHK (08/2020)
+    “Flipped Online Laboratory for Making Students’ First Robot” in [Teaching and Learning Innovation Expo 2019/2020](https://www.elearning.cuhk.edu.hk/expo2019-awards), CUHK (08/2020)
 
 * **University Education Award--Finalist**{: style="color: RoyalBlue;"} 
 
