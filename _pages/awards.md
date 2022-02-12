@@ -41,7 +41,7 @@ author_profile: true
 
 * **Exemplary Teaching Award in General Education 2018**{: style="color: RoyalBlue;"} 
 
-    Senate Committee on General Education, CUHK (05/2019)
+    [Senate Committee on General Education](https://www.oge.cuhk.edu.hk/index.php/en/teaching-a-learning/exemplary-teaching-award-in-general-education/past-ceremonies/2018/1642-2018-eta-han-dongkun), CUHK (05/2019)
     
 <img src="/images/eta_general_education_2018.jpg" alt="IEEE" style="width:591px;height:443px;">
 
