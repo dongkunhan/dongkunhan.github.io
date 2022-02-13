@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* **Dean’s Exemplary Teaching Award 2022**{: style="color: RoyalBlue;"} 
+* **Dean’s Exemplary Teaching Award 2021**{: style="color: RoyalBlue;"} 
 
     Faculty of Engineering, CUHK (01/2022)
 
