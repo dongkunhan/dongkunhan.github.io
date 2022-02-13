@@ -7,10 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-**Research topic 1**{: style="color: RoyalBlue;"}
+**Safe Learning On Maximizing the Region of Attraction of Partially Unknown Systems**{: style="color: RoyalBlue;"}
 --------------------------
+<img src="/images/research_topic_11.png" alt="IEEE" style="width:845px;height:309px;">
+Recent advances in learning techniques have enabled the modelling of unknown dynamical systems directly from data. However, in many contexts, these learning-based methods are short of safety guarantee and strict stability verification. To address this issue, this work first approximates the partially unknown nonlinear systems by using a learned state space with Gaussian Processes and Chebyshev interpolants. A Sum-of-Squares Programming based approach is then proposed to synthesize a controller by searching an optimal control Lyapunov Barrier function. In this way, we maximize the estimated region of attraction of partially unknown nonlinear systems, while guaranteeing both safety and stability. It is shown that the proposed method improves the extrapolation performance, and at the same time, generates a significantly larger estimated region of attraction.
 
-**Multi-vehicle autonomous driving via multi-agent reinforcement learning**{: style="color: RoyalBlue;" }
+**Multi-vehicle Autonomous Driving via Multi-agent Reinforcement Learning**{: style="color: RoyalBlue;" }
 ----------------------
 <img src="/images/research_topic_22.png" alt="IEEE" style="width:864px;height:303px;">
 Controlling multiple autonomous vehicles is quite challenging in a mixed traffic where it coexists with human-driven vehicles. In this work, we
