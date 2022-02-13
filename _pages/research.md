@@ -10,7 +10,7 @@ author_profile: true
 **Research topic 1**{: style="color: RoyalBlue;"}
 --------------------------
 
-**Research topic 2**{: style="color: RoyalBlue;" }
+**Multi-vehicle autonomous driving via multi-agent reinforcement learning**{: style="color: RoyalBlue;" }
 ----------------------
 <img src="/images/research_topic_22.png" alt="IEEE" style="width:864px;height:303px;">
 Controlling multiple autonomous vehicles is quite challenging in a mixed traffic where it coexists with human-driven vehicles. In this work, we
