@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+* **Dean’s Exemplary Teaching Award 2022**{: style="color: RoyalBlue;"} 
+
+    Faculty of Engineering, CUHK (01/2022)
+
 * **Gold Award in Technology Innovation Category**{: style="color: RoyalBlue;"} 
 
     “An Intelligent Cloud Teacher for Unmanned Robotic Online Laboratory” in the [16th eLearning Forum Asia](https://awards.elfasia.org/pastawardswinner) (12/2021)
