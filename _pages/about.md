@@ -4,8 +4,8 @@ title: "About"
 excerpt: "About"
 author_profile: true
 redirect_from: 
-  - /Website/
-  - /Website.html
+  - /about/
+  - /about.html
 ---
 
 Dongkun Han is currently a lecturer at the [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). 
