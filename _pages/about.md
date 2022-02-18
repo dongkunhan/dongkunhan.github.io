@@ -15,7 +15,7 @@ He earned his Ph.D. degree in the [Department of Electrical and Electronic Engin
 
 Media coverage
 ---------------
-* IEEE control systems magazine, “[Interview with Dr. Dongkun Han [People in Control]](https://ieeexplore.ieee.org/document/8960580)” 
+* IEEE Control Systems Magazine, “[Interview with Dr. Dongkun Han [People in Control]](https://ieeexplore.ieee.org/document/8960580)” 
 * CUHK University General Education Award, "[Message from Awardee Dr. Dongkun Han](https://www.oge.cuhk.edu.hk/index.php/en/teaching-a-learning/exemplary-teaching-award-in-general-education/past-ceremonies/2018/1642-2018-eta-han-dongkun)"
 
 <center><img src="/images/Photo2_Dongkun_Han.JPG" alt="Mountain View picture" style="width:300px;height:400px;"></center>
