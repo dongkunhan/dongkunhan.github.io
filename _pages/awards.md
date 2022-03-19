@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-> ***The greatest award is doing something you are proud of.***{: style="color: RoyalBlue;"} 
+> ***The greatest award is doing something you are proud of.
+> ***{: style="color: Black;"} 
 
 * **Dean’s Exemplary Teaching Award 2021**{: style="color: RoyalBlue;"} 
 
