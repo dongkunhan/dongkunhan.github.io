@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+> ***The greatest award is doing something you are proud of.***{: style="color: RoyalBlue;"} 
+
 * **Dean’s Exemplary Teaching Award 2021**{: style="color: RoyalBlue;"} 
 
     Faculty of Engineering, CUHK (01/2022)
