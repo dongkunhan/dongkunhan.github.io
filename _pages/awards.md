@@ -51,7 +51,7 @@ author_profile: true
     
 <img src="/images/eta_general_education_2018.jpg" alt="IEEE" style="width:591px;height:443px;">
 
-(Photo 3: CUHK General Education Exemplary Teaching Award ceremony)
+Photo 3: CUHK General Education Exemplary Teaching Award ceremony with Prof. Isabella Poon
 
 * **People’s Prize**{: style="color: RoyalBlue;"} 
 
@@ -59,7 +59,7 @@ author_profile: true
     
 <img src="/images/peoples_prize_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
 
-(Photo 2: CUHK Teaching and Learning Innovation Expo 2018 poster award ceremony)
+Photo 2: CUHK Teaching and Learning Innovation Expo 2018 poster award ceremony with Prof. Isabella Poon (right) and Mr. Martin Leung.
 
 * **Poster Commendation Award**{: style="color: RoyalBlue;"} 
 
@@ -67,5 +67,5 @@ author_profile: true
     
 <img src="/images/poster_commendation_award_tlexpo2018.jpg" alt="IEEE" style="width:627px;height:418px;">
 
-(Photo 1: CUHK Teaching and Learning Innovation Expo 2018 poster award ceremony)
+Photo 1: CUHK Teaching and Learning Innovation Expo 2018 poster award ceremony with Prof. Cecilia Chun (right) and Mr. Martin Leung.
 
