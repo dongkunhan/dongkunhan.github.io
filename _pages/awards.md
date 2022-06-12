@@ -9,6 +9,10 @@ author_profile: true
 
 > ***The greatest award is doing something you are proud of.***{: style="color: Black;"} 
 
+* **University Education Award 2022 (Early Career Faculty Members)**{: style="color: RoyalBlue;"} 
+
+    CUHK (06/2022)
+
 * **Dean’s Exemplary Teaching Award 2021**{: style="color: RoyalBlue;"} 
 
     Faculty of Engineering, CUHK (01/2022)
