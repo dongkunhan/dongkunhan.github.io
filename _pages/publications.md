@@ -6,41 +6,45 @@ author_profile: true
 ---
 A. Selected Conference Publications
 ======
-A1. D. Han, H. Huang. Sum-of-Squares Program and Safe Learning On Maximizing the Region of Attraction of Partially Unknown Systems. 2022 (Submitted).
+A1. D. Han, H. Huang. Sum-of-Squares Program and Safe Learning On Maximizing the Region of Attraction of Partially Unknown Systems.  **In Proceedings of the Asian Control Conference**{: style="color: RoyalBlue;"}, 2022 (Accepted).
 
-A2. H. Huang, D. Han. On Estimating the Probabilistic Region of Attraction for Partially Unknown Nonlinear Systems: An Sum-of-Squares Approach. **In Proceedings of the Chinese Conference on Decision and Control**{: style="color: RoyalBlue;"}, 2022 (accepted).
+A2. D. Han, H. Huang. Barrier Certified Safety Learning Control: When Sum-of-Square Programming Meets Reinforcement Learning.  **In Proceedings of the IEEE Conference on Control Technology and Applications**{: style="color: RoyalBlue;"}, 2022 (Accepted).
 
-A3. D. Han, Z. Du. Estimating the Region of Attraction for Switched Nonlinear Systems: A Continuous Piecewise Lyapunov Function Approach. **In Proceedings of the Asian Control Conference**{: style="color: RoyalBlue;"}, 973-978, 2019.
+A3. Y. Jiang, D. Han. Finite-time Motion Planning of Multi-agent Systems with Collision Avoidance.  **In Proceedings of the Asian Control Conference**{: style="color: RoyalBlue;"}, 2022 (Accepted).
 
-A4. D. Han, L. Huang, D. Panagou. Approximating the Region of Multi-Task Coordination via the Optimal Lyapunov-Like Barrier Function. **In Proceedings of the American Control Conference**{: style="color: RoyalBlue;"}, 5070-5075, 2018.
+A4. H. Huang, D. Han. On Estimating the Probabilistic Region of Attraction for Partially Unknown Nonlinear Systems: An Sum-of-Squares Approach. **In Proceedings of the Chinese Conference on Decision and Control**{: style="color: RoyalBlue;"}, 2022 (accepted).
 
-A5. L. Wang, D. Han, and M. Egerstedt.  Permissive  barrier certificates for domain of attraction estimation and safe stabilization using Sum-of-squares.  **In Proceedings of the American Control Conference**{: style="color: RoyalBlue;"}, 585-590, 2018.
+A5. D. Han, Z. Du. Estimating the Region of Attraction for Switched Nonlinear Systems: A Continuous Piecewise Lyapunov Function Approach. **In Proceedings of the Asian Control Conference**{: style="color: RoyalBlue;"}, 973-978, 2019.
 
-A6. D. Han and D. Panagou. Distributed multi-task formation control under parametric communication  uncertainties. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, 405-410, 2017.
+A6. D. Han, L. Huang, D. Panagou. Approximating the Region of Multi-Task Coordination via the Optimal Lyapunov-Like Barrier Function. **In Proceedings of the American Control Conference**{: style="color: RoyalBlue;"}, 5070-5075, 2018.
 
-A7. D. Han and D. Panagou.  Chebyshev approximation and higher order derivatives of Lyapunov functions for estimating the domain of attraction. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, 1181-1186, 2017.
+A7. L. Wang, D. Han, and M. Egerstedt.  Permissive  barrier certificates for domain of attraction estimation and safe stabilization using Sum-of-squares.  **In Proceedings of the American Control Conference**{: style="color: RoyalBlue;"}, 585-590, 2018.
 
-A8. K. Garg, D. Han, and D. Panagou. Robust semi-cooperative multi-agent coordination in the presence of stochastic disturbances. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, 3443-3448, 2017.
+A8. D. Han and D. Panagou. Distributed multi-task formation control under parametric communication  uncertainties. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, 405-410, 2017.
 
-A9. A. El-Guindy, D. Han, and M. Althoff. Estimating the region of attraction via forward reachable sets. **In Proceedings  of the American  Control Conference**{: style="color: RoyalBlue;"}, 1263-1270, 2017.
+A9. D. Han and D. Panagou.  Chebyshev approximation and higher order derivatives of Lyapunov functions for estimating the domain of attraction. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, 1181-1186, 2017.
 
-A10. D. Han, A. El-Guindy, and M. Althoff.  Estimating the domain of attraction via the invariance principle. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, pages 5569–5576, 2016.
+A10. K. Garg, D. Han, and D. Panagou. Robust semi-cooperative multi-agent coordination in the presence of stochastic disturbances. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, 3443-3448, 2017.
 
-A11. D. Han, A. El-Guindy, and M. Althoff. On estimating the robust domain of attraction for uncertain non-polynomial systems: An LMI approach. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, pages 2176–2183, 2016.
+A11. A. El-Guindy, D. Han, and M. Althoff. Estimating the region of attraction via forward reachable sets. **In Proceedings  of the American  Control Conference**{: style="color: RoyalBlue;"}, 1263-1270, 2017.
 
-A12. D. Han, A. El-Guindy, and M. Althoff.  On enlarging backward reachable sets via zonotopic set membership. **In Proceedings  of the IEEE  International Symposium on Intelligent Control**{: style="color: RoyalBlue;"}, pages 1–8, 2016.
+A12. D. Han, A. El-Guindy, and M. Althoff.  Estimating the domain of attraction via the invariance principle. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, pages 5569–5576, 2016.
 
-A13. D. Han, A. El-Guindy, and M. Althoff. Power systems transient stability analysis via optimal rational Lyapunov functions. **In Proceedings of the IEEE Power and Energy Society General  Meeting**{: style="color: RoyalBlue;"}, 2016.
+A13. D. Han, A. El-Guindy, and M. Althoff. On estimating the robust domain of attraction for uncertain non-polynomial systems: An LMI approach. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, pages 2176–2183, 2016.
 
-A14. D. Han and M. Althoff.  Control  synthesis  for non-polynomial systems:  A domain of attraction perspective. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, pages 1160–1167, 2015.
+A14. D. Han, A. El-Guindy, and M. Althoff.  On enlarging backward reachable sets via zonotopic set membership. **In Proceedings  of the IEEE  International Symposium on Intelligent Control**{: style="color: RoyalBlue;"}, pages 1–8, 2016.
 
-A15. C. K. Luk, G. Chesi, and D. Han. Guaranteed estimates of the domain of attraction for a class of hybrid systems. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, pages 2024–2029, 2013.
+A15. D. Han, A. El-Guindy, and M. Althoff. Power systems transient stability analysis via optimal rational Lyapunov functions. **In Proceedings of the IEEE Power and Energy Society General  Meeting**{: style="color: RoyalBlue;"}, 2016.
 
-A16. D. Han and G. Chesi.  Robust discrete-time consensus of multi-agent systems with uncertain  interaction. **In Proceedings of the IEEE International Conference on Control  Applications**{: style="color: RoyalBlue;"}, pages 1136–1141, 2012.
+A16. D. Han and M. Althoff.  Control  synthesis  for non-polynomial systems:  A domain of attraction perspective. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, pages 1160–1167, 2015.
+
+A17. C. K. Luk, G. Chesi, and D. Han. Guaranteed estimates of the domain of attraction for a class of hybrid systems. **In Proceedings of the IEEE Conference on Decision and Control**{: style="color: RoyalBlue;"}, pages 2024–2029, 2013.
+
+A18. D. Han and G. Chesi.  Robust discrete-time consensus of multi-agent systems with uncertain  interaction. **In Proceedings of the IEEE International Conference on Control  Applications**{: style="color: RoyalBlue;"}, pages 1136–1141, 2012.
  
-A17. D. Han, G. Chesi, and Y. S. Hung. Synchronization seeking in multi-agent dynamic systems with communication uncertainties. **In Proceedings of the IEEE International Symposium on Computer-Aided  Control  System Design**{: style="color: RoyalBlue;"}, pages 656–661, 2011.
+A19. D. Han, G. Chesi, and Y. S. Hung. Synchronization seeking in multi-agent dynamic systems with communication uncertainties. **In Proceedings of the IEEE International Symposium on Computer-Aided  Control  System Design**{: style="color: RoyalBlue;"}, pages 656–661, 2011.
 
-A18. D. Han, Y. Zhang, and Z. Wu.  Probability analysis of voltage  collapse  based on ranking fuzzy roughset load clustering. **In Proceedings of the IEEE Power and Energy Engineering  Conference**{: style="color: RoyalBlue;"}, pages 91–95, 2010.
+A20. D. Han, Y. Zhang, and Z. Wu.  Probability analysis of voltage  collapse  based on ranking fuzzy roughset load clustering. **In Proceedings of the IEEE Power and Energy Engineering  Conference**{: style="color: RoyalBlue;"}, pages 91–95, 2010.
 
 
 B. Selected Journal Publications
