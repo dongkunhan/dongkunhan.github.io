@@ -8,7 +8,7 @@ A. Selected Conference Publications
 ======
 A1. D. Han, H. Huang. Sum-of-Squares Program and Safe Learning On Maximizing the Region of Attraction of Partially Unknown Systems.  **In Proceedings of the Asian Control Conference**{: style="color: RoyalBlue;"}, 2022 (Accepted).
 
-A2. D. Han, H. Huang. Barrier Certified Safety Learning Control: When Sum-of-Square Programming Meets Reinforcement Learning.  **In Proceedings of the IEEE Conference on Control Technology and Applications**{: style="color: RoyalBlue;"}, 2022 (Accepted).
+A2. H. Huang, D. Han. Barrier Certified Safety Learning Control: When Sum-of-Square Programming Meets Reinforcement Learning.  **In Proceedings of the IEEE Conference on Control Technology and Applications**{: style="color: RoyalBlue;"}, 2022 (Accepted).
 
 A3. Y. Jiang, D. Han. Finite-time Motion Planning of Multi-agent Systems with Collision Avoidance.  **In Proceedings of the Asian Control Conference**{: style="color: RoyalBlue;"}, 2022 (Accepted).
 
