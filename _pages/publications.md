@@ -65,6 +65,6 @@ B7. D. Han and G. Chesi. Synchronization conditions for multi-agent systems with
 
 B8. D. Han and Y. Zhang. Comprehensive optimization of static/dynamic reactive power for receiving-end network. **Electric Power Automation Equipment**{: style="color: RoyalBlue;"}, 29(3):32-35, 2009.
 
-B9. D. Han and Y. Zhang. Impact of multi-infeed system transmission channel on voltagestability of receiving-end system. **Power Distribution and Utilization**{: style="color: RoyalBlue;"}, 6(4):45-49, 2008.
+B9. D. Han and Y. Zhang. Impact of multi-infeed system transmission channel on voltage stability of receiving-end system. **Power Distribution and Utilization**{: style="color: RoyalBlue;"}, 6(4):45-49, 2008.
 
 
