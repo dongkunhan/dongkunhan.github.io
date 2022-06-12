@@ -15,7 +15,7 @@ author_profile: true
 
 * **Dean’s Exemplary Teaching Award 2021**{: style="color: RoyalBlue;"} 
 
-    Faculty of Engineering, CUHK (01/2022)
+    Faculty of Engineering, CUHK (06/2022)
 
 * **Gold Award in Technology Innovation Category**{: style="color: RoyalBlue;"} 
 
