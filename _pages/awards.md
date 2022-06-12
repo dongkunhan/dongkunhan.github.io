@@ -9,9 +9,9 @@ author_profile: true
 
 > ***The greatest award is doing something you are proud of.***{: style="color: Black;"} 
 
-* **University Education Award 2022 (Early Career Faculty Members)**{: style="color: RoyalBlue;"} 
+* **University Education Award 2022**{: style="color: RoyalBlue;"} 
 
-    CUHK (06/2022)
+    In the category of early career faculty members, CUHK (06/2022)
 
 * **Dean’s Exemplary Teaching Award 2021**{: style="color: RoyalBlue;"} 
 
@@ -37,9 +37,9 @@ author_profile: true
 
     “Flipped Online Laboratory for Making Students’ First Robot” in [Teaching and Learning Innovation Expo 2019/2020](https://www.elearning.cuhk.edu.hk/expo2019-awards), CUHK (08/2020)
 
-* **University Education Award--Finalist**{: style="color: RoyalBlue;"} 
+* **University Education Award 2020--Finalist**{: style="color: RoyalBlue;"} 
 
-    University Education Award in Early Career Faculty Members Category, CUHK (04/2020)
+    In the category of early career faculty members, CUHK (04/2020)
 
 * **Dean’s Exemplary Teaching Award 2019**{: style="color: RoyalBlue;"} 
 
