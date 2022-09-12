@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+* **Teaching Development and Language Enhancement Grant, Funding Scheme for Virtual Teaching and Learning**{: style="color: RoyalBlue;"}, Innovative E-Learning Platforms and Tools for Effective Integration of VTL in Engineering Education
+
+  **Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, The Chinese University of Hong Kong, 7/2022-4/2025, HKD$1,657,430
+
 * **Courseware Development Grant**{: style="color: RoyalBlue;"}, Micro-Modules Development on Safety Training for Undergraduate Students in The Faculty of Engineering
 
     **Principal Investigator**, The Chinese University of Hong Kong, 10/2021-4/2022, HKD$75,608
