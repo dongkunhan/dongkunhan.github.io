@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* **Teaching Development and Language Enhancement Grant, Funding Scheme for Virtual Teaching and Learning**{: style="color: RoyalBlue;"}, Innovative E-Learning Platforms and Tools for Effective Integration of VTL in Engineering Education
+* **Teaching Development and Language Enhancement Grant, Funding Scheme for Inter-Institutional Collaborative Activities Portion**{: style="color: RoyalBlue;"}, Building a collaborative platform for enhancing artificial intelligence applications in education
 
   **Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, The Chinese University of Hong Kong, 7/2022-4/2025, HKD$1,657,430
 
