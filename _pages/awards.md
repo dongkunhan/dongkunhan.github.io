@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-> ***"The greatest award is doing something you are proud of."   --louis sachar***{: style="color: Black;"} 
+> ***"The greatest award is doing something you are proud of."   --Louis Sachar***{: style="color: Black;"} 
 
 * **University Education Award 2022**{: style="color: RoyalBlue;"} 
 
