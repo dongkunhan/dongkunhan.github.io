@@ -8,11 +8,11 @@ A. Selected Conference Publications
 ======
 A1. D. Han, H. Huang. Sum-of-Squares Program and Safe Learning On Maximizing the Region of Attraction of Partially Unknown Systems.  **In Proceedings of the Asian Control Conference**{: style="color: RoyalBlue;"}, 875-881, 2022.
 
-A2. H. Huang, Z. Li, D. Han. Barrier Certified Safety Learning Control: When Sum-of-Square Programming Meets Reinforcement Learning.  **In Proceedings of the IEEE Conference on Control Technology and Applications**{: style="color: RoyalBlue;"}, 2022 (Accepted).
+A2. H. Huang, Z. Li, D. Han. Barrier Certified Safety Learning Control: When Sum-of-Square Programming Meets Reinforcement Learning.  **In Proceedings of the IEEE Conference on Control Technology and Applications**{: style="color: RoyalBlue;"}, 1190-1195, 2022.
 
 A3. Y. Jiang, D. Han. Finite-time Motion Planning of Multi-agent Systems with Collision Avoidance.  **In Proceedings of the Asian Control Conference**{: style="color: RoyalBlue;"}, 869-874, 2022.
 
-A4. H. Huang, D. Han. On Estimating the Probabilistic Region of Attraction for Partially Unknown Nonlinear Systems: An Sum-of-Squares Approach. **In Proceedings of the Chinese Conference on Decision and Control**{: style="color: RoyalBlue;"}, 2022 (Accepted).
+A4. H. Huang, D. Han. On Estimating the Probabilistic Region of Attraction for Partially Unknown Nonlinear Systems: An Sum-of-Squares Approach. **In Proceedings of the Chinese Conference on Decision and Control**{: style="color: RoyalBlue;"}, 4427-4432, 2022.
 
 A5. D. Han, Z. Du. Estimating the Region of Attraction for Switched Nonlinear Systems: A Continuous Piecewise Lyapunov Function Approach. **In Proceedings of the Asian Control Conference**{: style="color: RoyalBlue;"}, 973-978, 2019.
 
