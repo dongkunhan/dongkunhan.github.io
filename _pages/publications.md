@@ -49,22 +49,24 @@ A20. D. Han, Y. Zhang, and Z. Wu.  Probability analysis of voltage  collapse  ba
 
 B. Selected Journal Publications
 ======
-B1. D. Han and D. Panagou “Robust Multi-task Formation Control via Parametric Lyapunov-like Barrier Functions”, **IEEE Transactions on Automatic Control**{: style="color: RoyalBlue;"}, 64(11):4439-4453, 2019.
+B1. W. Zhang, Z. Du and D. Han “Transient stability domain estimation of AC/DC systems considering HVDC switching characteristics based on the polynomial Lyapunov function method”, **International Journal of Electrical Power & Energy Systems**{: style="color: RoyalBlue;"}, 129:106875, 2021.
 
-B2. A. El-Guindy, D. Han, and M. Althoff. Formal analysis of drum-boiler units to maximize the load-following capabilities of power plants. **IEEE Transactions on Power Systems**{: style="color: RoyalBlue;"}, 31(6):4691-4702, 2016.
+B2. D. Han and D. Panagou “Robust Multi-task Formation Control via Parametric Lyapunov-like Barrier Functions”, **IEEE Transactions on Automatic Control**{: style="color: RoyalBlue;"}, 64(11):4439-4453, 2019.
 
-B3. D. Han and G. Chesi. Robust synchronization via homogeneous parameter-dependent polynomial contraction matrix. **IEEE Transactions on Circuits and Systems I: Regular Papers**{: style="color: RoyalBlue;"}, 61(10):2931-2940, 2014.
+B3. A. El-Guindy, D. Han, and M. Althoff. Formal analysis of drum-boiler units to maximize the load-following capabilities of power plants. **IEEE Transactions on Power Systems**{: style="color: RoyalBlue;"}, 31(6):4691-4702, 2016.
 
-B4. D. Han and G. Chesi. Robust consensus for uncertain multi-agent systems with discrete-time dynamics. **International Journal of Robust and Nonlinear Control**{: style="color: RoyalBlue;"}, 24(13):1858-1872, 2014.
+B4. D. Han and G. Chesi. Robust synchronization via homogeneous parameter-dependent polynomial contraction matrix. **IEEE Transactions on Circuits and Systems I: Regular Papers**{: style="color: RoyalBlue;"}, 61(10):2931-2940, 2014.
 
-B5. D. Han and G. Chesi. Homogeneous polynomial Lyapunov functions for robust local synchronization with time-varying uncertainties. **IET Control Theory and Applications**{: style="color: RoyalBlue;"}, 8(10):855-862, 2014.
+B5. D. Han and G. Chesi. Robust consensus for uncertain multi-agent systems with discrete-time dynamics. **International Journal of Robust and Nonlinear Control**{: style="color: RoyalBlue;"}, 24(13):1858-1872, 2014.
 
-B6. D. Han, G. Chesi, and Y. S. Hung. Robust consensus for a class of uncertain multi-agent dynamical systems. **IEEE Transactions on Industrial Informatics**{: style="color: RoyalBlue;"}, 9(1):306-312, 2013.
+B6. D. Han and G. Chesi. Homogeneous polynomial Lyapunov functions for robust local synchronization with time-varying uncertainties. **IET Control Theory and Applications**{: style="color: RoyalBlue;"}, 8(10):855-862, 2014.
 
-B7. D. Han and G. Chesi. Synchronization conditions for multi-agent systems with intrinsic nonlinear dynamics. **IEEE Transactions on Circuits and Systems II**{: style="color: RoyalBlue;"}, 60(4):227-231, 2013.
+B7. D. Han, G. Chesi, and Y. S. Hung. Robust consensus for a class of uncertain multi-agent dynamical systems. **IEEE Transactions on Industrial Informatics**{: style="color: RoyalBlue;"}, 9(1):306-312, 2013.
 
-B8. D. Han and Y. Zhang. Comprehensive optimization of static/dynamic reactive power for receiving-end network. **Electric Power Automation Equipment**{: style="color: RoyalBlue;"}, 29(3):32-35, 2009.
+B8. D. Han and G. Chesi. Synchronization conditions for multi-agent systems with intrinsic nonlinear dynamics. **IEEE Transactions on Circuits and Systems II**{: style="color: RoyalBlue;"}, 60(4):227-231, 2013.
 
-B9. D. Han and Y. Zhang. Impact of multi-infeed system transmission channel on voltage stability of receiving-end system. **Power Distribution and Utilization**{: style="color: RoyalBlue;"}, 6(4):45-49, 2008.
+B9. D. Han and Y. Zhang. Comprehensive optimization of static/dynamic reactive power for receiving-end network. **Electric Power Automation Equipment**{: style="color: RoyalBlue;"}, 29(3):32-35, 2009.
+
+B10. D. Han and Y. Zhang. Impact of multi-infeed system transmission channel on voltage stability of receiving-end system. **Power Distribution and Utilization**{: style="color: RoyalBlue;"}, 6(4):45-49, 2008.
 
 
