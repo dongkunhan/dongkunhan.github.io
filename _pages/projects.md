@@ -9,7 +9,7 @@ author_profile: true
 
 * **Teaching Development and Language Enhancement Grant for the 2022-25 Triennium**{: style="color: RoyalBlue;"}, An AI-enhanced Adaptive and Individualized eLearning System for Mathematics Foundation Courses in the Faculty of Engineering
 
-  **Principal Investigator**, The Chinese University of Hong Kong, 10/2021-4/2022, HKD$940,461
+  **Principal Investigator**, The Chinese University of Hong Kong, 12/2022-4/2025, HKD$940,461
 
 * **Teaching Development and Language Enhancement Grant, Funding Scheme for Inter-Institutional Collaborative Activities Portion**{: style="color: RoyalBlue;"}, Building a collaborative platform for enhancing artificial intelligence applications in education
 
