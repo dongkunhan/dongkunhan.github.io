@@ -8,10 +8,13 @@ author_profile: true
 {% include base_path %}
 
 > ***"The greatest award is doing something you are proud of."   --Louis Sachar***{: style="color: Black;"} 
+* **Gold Award in Category of the Educational Technology Innovation**{: style="color: RoyalBlue;"} 
+
+    “A Humanoid Robotic Teacher for Engineering Hands-on Learning” in the [Teaching and Learning Innovation Expo 2022](https://www.expo.elearning.cuhk.edu.hk/expo2022-poster-award) (12/2022) 
 
 * **University Education Award 2022**{: style="color: RoyalBlue;"} 
 
-    In the category of early career faculty members, CUHK (06/2022)
+   [ In the category of early career faculty members](https://www.cuhk.edu.hk/vc-exemplary-teaching-award/english/university-education-award.html), CUHK (06/2022)
 
 * **Dean’s Exemplary Teaching Award 2021**{: style="color: RoyalBlue;"} 
 
