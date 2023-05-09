@@ -9,7 +9,12 @@ author_profile: true
 
 > ***"The greatest award is doing something you are proud of."   --Louis Sachar***{: style="color: Black;"} 
 
+* **Best Oral Presentation Award**{: style="color: RoyalBlue;"} 
+
+    “Flipped Robotic Online Laboratory with an Intelligent Cloud Teacher” in the [9th International Conference on Education and Training Technologies](http://www.icett.org) (04/2023) 
+
 * **Gold Award in Category of the Educational Technology Innovation**{: style="color: RoyalBlue;"} 
+
     “A Humanoid Robotic Teacher for Engineering Hands-on Learning” in the [Teaching and Learning Innovation Expo 2022](https://www.expo.elearning.cuhk.edu.hk/expo2022-poster-award) (12/2022) 
 
 * **University Education Award 2022**{: style="color: RoyalBlue;"} 
