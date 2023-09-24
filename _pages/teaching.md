@@ -42,9 +42,8 @@ author_profile: true
 ------------------------
 
 * **GENA1113 Student-Oriented Teaching and Seminar** 
-
-* **UGEB1307 Energy and Green Society** 
-
+* **UGEB1307 Energy and Green Society**
+* **UGEB1407 Demystifying Artificial Intelligence** 
 * **UGEB2303 Robots in Action** 
 
 
