@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 > ***"The greatest award is doing something you are proud of."   --Louis Sachar***{: style="color: Black;"} 
+* **Best Session Presentation Award**{: style="color: RoyalBlue;"} 
+
+    “A Humanoid Robotic Teacher: Development and Implementation in Engineering Experiential Training” in the session of Artificial Intelligence and Extended Reality Technology in Education, [5th International Conference on Advances in Education and Information Technology](https://www.aeit.net/) (08/2023)
 
 * **Best Presentation Award**{: style="color: RoyalBlue;"} 
 
