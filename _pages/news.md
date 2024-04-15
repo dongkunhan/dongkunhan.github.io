@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Awards"
-permalink: /awards/
+title: "News"
+permalink: /news/
 author_profile: true
 ---
 
 {% include base_path %}
 
-> ***"The greatest award is doing something you are proud of."   --Louis Sachar***{: style="color: Black;"} 
+> ***"No cross, No crown."   --William Penn***{: style="color: Black;"} 
 
 * **Best Session Presentation Award**{: style="color: RoyalBlue;"} 
 
