@@ -9,6 +9,10 @@ author_profile: true
 
 > ***"No cross, No crown."   --William Penn***{: style="color: Black;"} 
 
+* **Best Oral Presentation Award**{: style="color: RoyalBlue;"} 
+
+    “Unmanned Robotic Laboratory Construction via a Humanoid Chatbot” in the session of Artificial Intelligence and Extended Reality Technology in Education, [16th International Conference on Machine Learning and Computing](https://www.icmlc.org/) (02/2024)
+
 * **Best Session Presentation Award**{: style="color: RoyalBlue;"} 
 
     “A Humanoid Robotic Teacher: Development and Implementation in Engineering Experiential Training” in the session of Artificial Intelligence and Extended Reality Technology in Education, [5th International Conference on Advances in Education and Information Technology](https://www.aeit.net/) (01/2024)
