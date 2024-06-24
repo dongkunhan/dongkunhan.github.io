@@ -9,9 +9,13 @@ author_profile: true
 
 > ***"No cross, No crown."   --William Penn***{: style="color: Black;"} 
 
+* **Best Paper Award**{: style="color: RoyalBlue;"} 
+
+    “A Hybrid Intelligent Teacher System for Engineering Hands-on Training” in the [8th International Conference on Education and Multimedia Technology](https://www.icemt.org/) (06/2024)
+
 * **Best Oral Presentation Award**{: style="color: RoyalBlue;"} 
 
-    “Unmanned Robotic Laboratory Construction via a Humanoid Chatbot” in the session of Artificial Intelligence and Extended Reality Technology in Education, [16th International Conference on Machine Learning and Computing](https://www.icmlc.org/) (02/2024)
+    “Unmanned Robotic Laboratory Construction via a Humanoid Chatbot” in the [16th International Conference on Machine Learning and Computing](https://www.icmlc.org/) (02/2024)
 
 * **Best Session Presentation Award**{: style="color: RoyalBlue;"} 
 
@@ -19,15 +23,15 @@ author_profile: true
 
 * **Best Presentation Award**{: style="color: RoyalBlue;"} 
 
-    “Engineering Experiential Education via an Intelligent Humanoid Robotic Teacher” in the [The 7th International Conference on Education and Multimedia Technology](http://www.icemt.org/) (08/2023)
+    “Engineering Experiential Education via an Intelligent Humanoid Robotic Teacher” in the [7th International Conference on Education and Multimedia Technology](http://www.icemt.org/) (08/2023)
 
 * **Best Presentation Award**{: style="color: RoyalBlue;"} 
 
-    “From Virtual to Physical: Chatbot Development for Teaching Robotics” in the [The 5th International Conference on Modern Educational Technology](http://www.icmet.org/) (06/2023) 
+    “From Virtual to Physical: Chatbot Development for Teaching Robotics” in the [5th International Conference on Modern Educational Technology](http://www.icmet.org/) (06/2023) 
 
 * **Best Oral Presentation Award**{: style="color: RoyalBlue;"} 
 
-    “Flipped Robotic Online Laboratory with an Intelligent Cloud Teacher” in the [The 9th International Conference on Education and Training Technologies](http://www.icett.org) (04/2023) 
+    “Flipped Robotic Online Laboratory with an Intelligent Cloud Teacher” in the [9th International Conference on Education and Training Technologies](http://www.icett.org) (04/2023) 
 
 * **Gold Award in Category of the Educational Technology Innovation**{: style="color: RoyalBlue;"} 
 
