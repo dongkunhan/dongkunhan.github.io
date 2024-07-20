@@ -33,7 +33,7 @@ author_profile: true
 
     “Flipped Robotic Online Laboratory with an Intelligent Cloud Teacher” in the [9th International Conference on Education and Training Technologies](http://www.icett.org) (04/2023) 
 
-* **Keynote Speaker**{: style="color: green;"} 
+* **Keynote Speaker**{: style="color: darkgreen;"} 
 
     “A Technology-enabled Hybrid Teaching Approach for Hands-on Learning” in the [Teaching and Learning Innovation Expo 2022](https://www.expo.elearning.cuhk.edu.hk/expo2022) (12/2022) 
 
