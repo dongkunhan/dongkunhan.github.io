@@ -9,6 +9,10 @@ author_profile: true
 
 > ***"No cross, No crown."   --William Penn***{: style="color: Black;"} 
 
+* **Exemplary Teaching Award in General Education 2023**{: style="color: RoyalBlue;"} 
+
+    [Senate Committee on General Education](https://www.oge.cuhk.edu.hk/eta/exemplary-teaching-award-in-general-education-2023/), CUHK (06/2024)
+
 * **Best Paper Award**{: style="color: RoyalBlue;"} 
 
     “A Hybrid Intelligent Teacher System for Engineering Hands-on Training” in the [8th International Conference on Education and Multimedia Technology](https://www.icemt.org/) (06/2024)
