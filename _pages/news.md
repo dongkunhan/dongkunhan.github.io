@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-> ***"No cross, No crown."   --William Penn***{: style="color: Black;"} 
+> ***"Life is short. Do stuff that matters." ***{: style="color: Black;"} 
 
 * **Exemplary Teaching Award in General Education 2023**{: style="color: RoyalBlue;"} 
 
