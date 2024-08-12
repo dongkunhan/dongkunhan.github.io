@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-> ***"Life is short. Do stuff that matters."***{: style="color: RoyalBlue;"} 
+> ***"Life is short. Do stuff that matters."***{: style="color: RoyalBlue;"}
+
 * **Exemplary Teaching Award in General Education 2023**{: style="color: RoyalBlue;"} 
 
     [Senate Committee on General Education](https://www.oge.cuhk.edu.hk/eta/exemplary-teaching-award-in-general-education-2023/), CUHK (06/2024)
