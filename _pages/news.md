@@ -9,6 +9,10 @@ author_profile: true
 
 > ***"Life is short. Do stuff that matters."***{: style="color: Black;"}
 
+* **Best Presentation Award**{: style="color: RoyalBlue;"} 
+
+    “Deep Reinforcement Learning for Autonomous Driving with Multi-Scenario Fusion: A Unified Reward Function Approach” in the [7th International Conference on Machine Learning and Machine Intelligence](https://mlmi.net/) (08/2024)
+
 * **Exemplary Teaching Award in General Education 2023**{: style="color: RoyalBlue;"} 
 
     [Senate Committee on General Education](https://www.oge.cuhk.edu.hk/eta/exemplary-teaching-award-in-general-education-2023/), CUHK (06/2024)
