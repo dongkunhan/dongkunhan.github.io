@@ -10,7 +10,7 @@ author_profile: true
 **Faculty Service Course**{: style="color: RoyalBlue;"}
 --------------------------
 
-* **ENGG1910 Demystifying Artificial Intelligence** (with Prof. [LEE Tan](https://www.ee.cuhk.edu.hk/~tanlee/)) 
+* **ENGG1910 Demystifying Artificial Intelligence**
 
 **Faculty Foundation Course**{: style="color: RoyalBlue;" }
 ----------------------
