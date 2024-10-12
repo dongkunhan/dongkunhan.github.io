@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-> ***"Life is short. Do stuff that matters."***{: style="color: Black;"}
+> ***"May you be unwavering day and night loyal to yourself. The best is yet to come"***{: style="color: Black;"}
 
 * **Best Presentation Award**{: style="color: RoyalBlue;"} 
 
