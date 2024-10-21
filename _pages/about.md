@@ -27,4 +27,6 @@ Media coverage
 
 * Sing Tao Daily (星島日報), "[CUHK "Online Lab" Conducts Experiments Remotely](https://std.stheadline.com/daily/article/2512589/%E6%97%A5%E5%A0%B1-%E6%95%99%E8%82%B2-%E4%B8%AD%E5%A4%A7-%E5%9C%A8%E7%B6%AB%E5%AF%A6%E9%A9%97%E5%AE%A4-%E9%81%99%E8%B7%9D%E5%81%9A%E5%AF%A6%E9%A9%97)"
 
-// <center><img src="/images/Photo2_Dongkun_Han.JPG" alt="Mountain View picture" style="width:300px;height:400px;"></center>
+/* 
+<center><img src="/images/Photo2_Dongkun_Han.JPG" alt="Mountain View picture" style="width:300px;height:400px;"></center>
+ */
