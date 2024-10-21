@@ -13,7 +13,7 @@ author_profile: true
 
 * **Teaching Development and Language Enhancement Grant, Funding Scheme for Inter-Institutional Collaborative Activities Portion**{: style="color: RoyalBlue;"}, Building a collaborative platform for enhancing artificial intelligence applications in education
 
-  **Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, The Chinese University of Hong Kong, 7/2022-4/2025.
+ **Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, The Chinese University of Hong Kong, 7/2022-4/2025.
 
 [//]: # (, HKD$1,657,430)
 * **Courseware Development Grant**{: style="color: RoyalBlue;"}, Micro-Modules Development on Safety Training for Undergraduate Students in The Faculty of Engineering
