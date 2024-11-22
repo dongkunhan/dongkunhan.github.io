@@ -9,6 +9,10 @@ author_profile: true
 
 > ***"May you be unwavering day and night loyal to yourself. The best is yet to come"***{: style="color: Black;"}
 
+* **Dean’s Exemplary Teaching Award 2023**{: style="color: RoyalBlue;"} 
+
+    Faculty of Engineering, CUHK (11/2024)
+
 * **Best Presentation Award**{: style="color: RoyalBlue;"} 
 
     “Deep Reinforcement Learning for Autonomous Driving with Multi-Scenario Fusion: A Unified Reward Function Approach” in the [7th International Conference on Machine Learning and Machine Intelligence](https://mlmi.net/) (08/2024)
