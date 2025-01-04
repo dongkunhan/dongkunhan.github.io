@@ -9,6 +9,10 @@ author_profile: true
 
 > ***"May you be unwavering day and night loyal to yourself. The best is yet to come"***{: style="color: Black;"}
 
+* **Best Presenter Award**{: style="color: RoyalBlue;"} 
+
+    “A Class of Nature Language Processing Technologies for Developing a Chatbot in Engineering Experiential Education” in the [7th International Conference on Algorithms, Computing and Artificial Intelligence](http://www.acai-conf.net/) (12/2024)
+
 * **Dean’s Exemplary Teaching Award 2023**{: style="color: RoyalBlue;"} 
 
     Faculty of Engineering, CUHK (11/2024)
