@@ -10,7 +10,7 @@ A1. D. Han, and S. Shen, Deep Reinforcement Learning for Autonomous Driving with
 
 A2. D. Han, and B. Shao, Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot, **In Proceedings of the International Conference on Control and Robotics**{: style="color: RoyalBlue;"}, 806-811, 2024.
 
-A3. D. Han, Y. Huang, H. Huang, and T. Fang, Distributed coordination for multi-vehicle systems in the presence of misbehaving vehicles, **In Proceedings of the Asia Conference on Mechanical and Aerospace Engineering**{: style="color: RoyalBlue;"}, 1046-1053, 2024.
+A3. D. Han, Y. Huang, H. Huang, and T. Fang, Distributed Coordination for Multi-Vehicle Systems in the Presence of Misbehaving Vehicles, **In Proceedings of the Asia Conference on Mechanical and Aerospace Engineering**{: style="color: RoyalBlue;"}, 1046-1053, 2024.
 
 A4. D. Han, S. Huang, P. K. Abia Hui and Y. Chen, Development of a New Type of Vortex Bladeless Wind Turbine for Urban Energy Systems, **In Proceedings of the International Conference on Power and Renewable Energy**{: style="color: RoyalBlue;"}, 973-978, 2024.
 
