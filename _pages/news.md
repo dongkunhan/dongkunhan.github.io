@@ -11,7 +11,7 @@ author_profile: true
 
 * **Vice-Chancellor’s Exemplary Teaching Award 2023**{: style="color: RoyalBlue;"} 
 
-  CUHK (03/2025)
+  The Chinese University of Hong Kong (03/2025)
 
 
 * **Best Presention Award**{: style="color: RoyalBlue;"} 
@@ -24,7 +24,7 @@ author_profile: true
 
 * **Dean’s Exemplary Teaching Award 2023**{: style="color: RoyalBlue;"} 
 
-    Faculty of Engineering, CUHK (11/2024)
+    Faculty of Engineering, The Chinese University of Hong Kong (11/2024)
 
 * **Best Presentation Award**{: style="color: RoyalBlue;"} 
 
@@ -72,7 +72,7 @@ author_profile: true
 
 * **Dean’s Exemplary Teaching Award 2021**{: style="color: RoyalBlue;"} 
 
-    Faculty of Engineering, CUHK (01/2022)
+    Faculty of Engineering, The Chinese University of Hong Kong (01/2022)
 
 * **Gold Award in Technology Innovation Category**{: style="color: RoyalBlue;"} 
 
@@ -100,7 +100,7 @@ author_profile: true
 
 * **Dean’s Exemplary Teaching Award 2019**{: style="color: RoyalBlue;"} 
 
-    Faculty of Engineering, CUHK (01/2020)
+    Faculty of Engineering, The Chinese University of Hong Kong (01/2020)
 
 * **O. Hugo Schuck Best Paper Award**{: style="color: RoyalBlue;"} 
 
