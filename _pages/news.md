@@ -9,6 +9,15 @@ author_profile: true
 
 > ***"May you be unwavering day and night loyal to yourself. The best is yet to come"***{: style="color: Black;"}
 
+* **Vice-Chancellor’s Exemplary Teaching Award 2023**{: style="color: RoyalBlue;"} 
+
+  CUHK (03/2025)
+
+
+* **Best Presention Award**{: style="color: RoyalBlue;"} 
+
+    “A Humanoid Chabot Development via a Class of Text-to-Speech Technology” in the [17th International Conference on Machine Learning and Computing](https://www.icmlc.org/) (02/2025)
+
 * **Best Presenter Award**{: style="color: RoyalBlue;"} 
 
     “A Class of Nature Language Processing Technologies for Developing a Chatbot in Engineering Experiential Education” in the [7th International Conference on Algorithms, Computing and Artificial Intelligence](http://www.acai-conf.net/) (12/2024)
