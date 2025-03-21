@@ -8,7 +8,7 @@ A. Selected Conference Publications
 ======
 A1. D. Han, and S. Shen, Deep Reinforcement Learning for Autonomous Driving with Multi-Scenario Fusion: A Unified Reward Function Approach, **In Proceedings of the International Conference on Machine Learning and Machine Intelligence**{: style="color: RoyalBlue;"}, 78-84, 2024.
 
-A2. D. Han, and B. Shao, Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot, **In Proceedings of the International Conference on Control and Robotics**{: style="color: RoyalBlue;"}, 806-811, 2024.
+A2. D. Han, and B. Shao, Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot, **In Proceedings of the International Conference on Control and Robotics**{: style="color: RoyalBlue;"}, 656-662, 2024.
 
 A3. D. Han, Y. Huang, H. Huang, and T. Fang, Distributed Coordination for Multi-Vehicle Systems in the Presence of Misbehaving Vehicles, **In Proceedings of the Asia Conference on Mechanical and Aerospace Engineering**{: style="color: RoyalBlue;"}, 1046-1053, 2024.
 
