@@ -9,10 +9,13 @@ author_profile: true
 
 > ***"May you be unwavering day and night loyal to yourself. The best is yet to come"***{: style="color: Black;"}
 
+* **Excellent Oral Presentation Award**{: style="color: RoyalBlue;"} 
+
+    “Unmanned Engineering Laboratory with a Humanoid Robotic Instructor” in the [14th International Conference on Educational and Information Technology](https://www.iceit.org/) (03/2025)
+  
 * **Vice-Chancellor’s Exemplary Teaching Award 2023**{: style="color: RoyalBlue;"} 
 
   The Chinese University of Hong Kong (03/2025)
-
 
 * **Best Presention Award**{: style="color: RoyalBlue;"} 
 
