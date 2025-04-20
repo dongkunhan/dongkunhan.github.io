@@ -65,7 +65,7 @@ B. Selected Journal Publications
 ======
 B1. J. Pan, Z. Zhao, and D. Han “Academic Performance Prediction Using Machine Learning Approaches: A Survey”, **IEEE Transactions on Learning Technologies**{: style="color: RoyalBlue;"}, 18(6):351-368, 2025.
 
-B2. S. Huang, D. Han, J. Z. F. Pang, and Y. Chen “Optimal Real-Time Bidding Strategy for EV Aggregators in Wholesale Electricity Markets”, ** IEEE Transactions on Intelligent Transportation Systems**{: style="color: RoyalBlue;"}, 26(4):5538-5551, 2025.
+B2. S. Huang, D. Han, J. Z. F. Pang, and Y. Chen “Optimal Real-Time Bidding Strategy for EV Aggregators in Wholesale Electricity Markets”, **IEEE Transactions on Intelligent Transportation Systems**{: style="color: RoyalBlue;"}, 26(4):5538-5551, 2025.
 
 B3. W. Zhang, Z. Du and D. Han “Transient stability domain estimation of AC/DC systems considering HVDC switching characteristics based on the polynomial Lyapunov function method”, **International Journal of Electrical Power & Energy Systems**{: style="color: RoyalBlue;"}, 129:106875, 2021.
 
