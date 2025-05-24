@@ -16,6 +16,12 @@ author_profile: true
   **Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, The Chinese University of Hong Kong, 7/2022-4/2025, HKD$1,657,430.
 
 [//]: # (, HKD$1,657,430)
+
+* **Teaching Development and Language Enhancement Grant for the 2022-25 Triennium**{: style="color: RoyalBlue;"}, Enhancing Follow-up Learning Experience by Leveraging "Topic Guidance Enquiry Framework" on GuidedNLP Model for Tailored Student Engagement
+
+**Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, The Chinese University of Hong Kong, 4/2024-4/2025, HKD$642,288.
+
+
 * **Courseware Development Grant**{: style="color: RoyalBlue;"}, Micro-Modules Development on Safety Training for Undergraduate Students in The Faculty of Engineering
 
     **Principal Investigator**, The Chinese University of Hong Kong, 10/2021-4/2022.
