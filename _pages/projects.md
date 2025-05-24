@@ -17,7 +17,7 @@ author_profile: true
 
 [//]: # (, HKD$1,657,430)
 
-* **Teaching Development and Language Enhancement Grant for the 2022-25 Triennium**{: style="color: RoyalBlue;"}, Enhancing Follow-up Learning Experience by Leveraging "Topic Guidance Enquiry Framework" on GuidedNLP Model for Tailored Student Engagement
+* **Teaching Development and Language Enhancement Grant for the 2022-25 Triennium**{: style="color: RoyalBlue;"}, Enhancing Follow-up Learning Experience by Leveraging "Topic Guidance Enquiry Framework" on Guided NLP Model for Tailored Student Engagement
 
   **Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, The Chinese University of Hong Kong, 4/2024-4/2025, HKD$642,288.
 
