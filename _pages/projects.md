@@ -19,7 +19,7 @@ author_profile: true
 
 * **Teaching Development and Language Enhancement Grant for the 2022-25 Triennium**{: style="color: RoyalBlue;"}, Enhancing Follow-up Learning Experience by Leveraging "Topic Guidance Enquiry Framework" on GuidedNLP Model for Tailored Student Engagement
 
-**Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, The Chinese University of Hong Kong, 4/2024-4/2025, HKD$642,288.
+  **Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, The Chinese University of Hong Kong, 4/2024-4/2025, HKD$642,288.
 
 
 * **Courseware Development Grant**{: style="color: RoyalBlue;"}, Micro-Modules Development on Safety Training for Undergraduate Students in The Faculty of Engineering
