@@ -9,6 +9,11 @@ author_profile: true
 
 > ***"May you be unwavering day and night loyal to yourself. The best is yet to come"***{: style="color: Black;"}
 
+* **Best Presentation Award**{: style="color: RoyalBlue;"} 
+
+    “Constructing a Distance Engineering Laboratory” in the [the 16th International Conference on E-Education, E-Business, E-Management and E-Learning (IC4E 2025)](https://www.ic4e.net/) (05/2025)
+
+
 * **Excellent Oral Presentation Award**{: style="color: RoyalBlue;"} 
 
     “Unmanned Engineering Laboratory with a Humanoid Robotic Instructor” in the [14th International Conference on Educational and Information Technology](https://www.iceit.org/) (03/2025)
