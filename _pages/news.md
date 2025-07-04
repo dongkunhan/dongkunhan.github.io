@@ -11,7 +11,7 @@ author_profile: true
 
 * **Best Presentation Award**{: style="color: RoyalBlue;"} 
 
-    “Constructing a Distance Engineering Laboratory” in the [the 16th International Conference on E-Education, E-Business, E-Management and E-Learning (IC4E 2025)](https://www.ic4e.net/) (05/2025)
+    “Constructing a Distance Engineering Laboratory” in the [16th International Conference on E-Education, E-Business, E-Management and E-Learning](https://www.ic4e.net/) (05/2025)
 
 
 * **Excellent Oral Presentation Award**{: style="color: RoyalBlue;"} 
