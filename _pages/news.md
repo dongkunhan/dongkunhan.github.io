@@ -20,7 +20,7 @@ author_profile: true
   
 * **Vice-Chancellor’s Exemplary Teaching Award 2023**{: style="color: RoyalBlue;"} 
 
-  The Chinese University of Hong Kong (03/2025)
+  [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/vc-exemplary-teaching-award/english/award2023.html) (03/2025)
 
 * **Best Presention Award**{: style="color: RoyalBlue;"} 
 
