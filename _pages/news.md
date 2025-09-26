@@ -9,6 +9,11 @@ author_profile: true
 
 > ***"May you be unwavering day and night loyal to yourself. The best is yet to come"***{: style="color: Black;"}
 
+* **Plenary Speaker**{: style="color: darkgreen;"} 
+
+    “Closing the Loop with AI in Mathematics Education: Intelligent Personalization, Assessment, and Tutoring” in the [2025 MTAP-AT Annual Convention]([https://www.expo.elearning.cuhk.edu.hk/expo2022](https://sites.google.com/view/2025mtap-tlannualconvention/home)) (09/2025) 
+
+
 * **Best Presentation Award**{: style="color: RoyalBlue;"} 
 
     “Constructing a Distance Engineering Laboratory” in the [16th International Conference on E-Education, E-Business, E-Management and E-Learning](https://www.ic4e.net/) (05/2025)
