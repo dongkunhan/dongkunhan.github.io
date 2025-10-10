@@ -13,11 +13,9 @@ author_profile: true
 
     “Closing the Loop with AI in Mathematics Education: Intelligent Personalization, Assessment, and Tutoring” in the [2025 MTAP-AT Annual Convention](https://sites.google.com/view/2025mtap-tlannualconvention/home) (09/2025) 
 
-
 * **Best Presentation Award**{: style="color: RoyalBlue;"} 
 
     “Constructing a Distance Engineering Laboratory” in the [16th International Conference on E-Education, E-Business, E-Management and E-Learning](https://www.ic4e.net/) (05/2025)
-
 
 * **Excellent Oral Presentation Award**{: style="color: RoyalBlue;"} 
 
@@ -106,10 +104,6 @@ author_profile: true
 * **Best Poster Award**{: style="color: RoyalBlue;"} 
 
     “Flipped Online Laboratory for Making Students’ First Robot” in [Teaching and Learning Innovation Expo 2019/2020](https://www.elearning.cuhk.edu.hk/expo2019-awards), CUHK (08/2020)
-
-* **University Education Award 2020--Finalist**{: style="color: RoyalBlue;"} 
-
-    In the category of early career faculty members, CUHK (04/2020)
 
 * **Dean’s Exemplary Teaching Award 2019**{: style="color: RoyalBlue;"} 
 
