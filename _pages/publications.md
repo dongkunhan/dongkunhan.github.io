@@ -63,30 +63,32 @@ A27. D. Han, Y. Zhang, and Z. Wu.  Probability analysis of voltage  collapse  ba
 
 B. Selected Journal Publications
 ======
-B1. D. Han, Y. Huang, H. Huang, and T. Fang “Distributed Coordination for Multi-Vehicle Systems in the Presence of Misbehaving Vehicles. **Mechanical and Aerospace Engineering**{: style="color: RoyalBlue;"}, pp. 656-662, 2025.
+B1. L. Y. KWONG, and D. Han. Design Optimization of Vortex-Induced Vibration Bladeless Wind Turbines for Urban Energy Harvesting. **Trends in Renewable Energy**{: style="color: RoyalBlue;"}, 11(2): 255-279, 2025.
 
-B2. J. Pan, Z. Zhao, and D. Han “Academic Performance Prediction Using Machine Learning Approaches: A Survey”, **IEEE Transactions on Learning Technologies**{: style="color: RoyalBlue;"}, 18(6):351-368, 2025.
+B2. D. Han, Y. Huang, H. Huang, and T. Fang “Distributed Coordination for Multi-Vehicle Systems in the Presence of Misbehaving Vehicles. **Mechanical and Aerospace Engineering**{: style="color: RoyalBlue;"}, pp. 656-662, 2025.
 
-B3. S. Huang, D. Han, J. Z. F. Pang, and Y. Chen “Optimal Real-Time Bidding Strategy for EV Aggregators in Wholesale Electricity Markets”, **IEEE Transactions on Intelligent Transportation Systems**{: style="color: RoyalBlue;"}, 26(4):5538-5551, 2025.
+B3. J. Pan, Z. Zhao, and D. Han “Academic Performance Prediction Using Machine Learning Approaches: A Survey”, **IEEE Transactions on Learning Technologies**{: style="color: RoyalBlue;"}, 18(6):351-368, 2025.
 
-B4. W. Zhang, Z. Du and D. Han “Transient stability domain estimation of AC/DC systems considering HVDC switching characteristics based on the polynomial Lyapunov function method”, **International Journal of Electrical Power & Energy Systems**{: style="color: RoyalBlue;"}, 129:106875, 2021.
+B4. S. Huang, D. Han, J. Z. F. Pang, and Y. Chen “Optimal Real-Time Bidding Strategy for EV Aggregators in Wholesale Electricity Markets”, **IEEE Transactions on Intelligent Transportation Systems**{: style="color: RoyalBlue;"}, 26(4):5538-5551, 2025.
 
-B5. D. Han and D. Panagou “Robust Multi-task Formation Control via Parametric Lyapunov-like Barrier Functions”, **IEEE Transactions on Automatic Control**{: style="color: RoyalBlue;"}, 64(11):4439-4453, 2019.
+B5. W. Zhang, Z. Du and D. Han “Transient stability domain estimation of AC/DC systems considering HVDC switching characteristics based on the polynomial Lyapunov function method”, **International Journal of Electrical Power & Energy Systems**{: style="color: RoyalBlue;"}, 129:106875, 2021.
 
-B6. A. El-Guindy, D. Han, and M. Althoff. Formal analysis of drum-boiler units to maximize the load-following capabilities of power plants. **IEEE Transactions on Power Systems**{: style="color: RoyalBlue;"}, 31(6):4691-4702, 2016.
+B6. D. Han and D. Panagou “Robust Multi-task Formation Control via Parametric Lyapunov-like Barrier Functions”, **IEEE Transactions on Automatic Control**{: style="color: RoyalBlue;"}, 64(11):4439-4453, 2019.
 
-B7. D. Han and G. Chesi. Robust synchronization via homogeneous parameter-dependent polynomial contraction matrix. **IEEE Transactions on Circuits and Systems I: Regular Papers**{: style="color: RoyalBlue;"}, 61(10):2931-2940, 2014.
+B7. A. El-Guindy, D. Han, and M. Althoff. Formal analysis of drum-boiler units to maximize the load-following capabilities of power plants. **IEEE Transactions on Power Systems**{: style="color: RoyalBlue;"}, 31(6):4691-4702, 2016.
 
-B8. D. Han and G. Chesi. Robust consensus for uncertain multi-agent systems with discrete-time dynamics. **International Journal of Robust and Nonlinear Control**{: style="color: RoyalBlue;"}, 24(13):1858-1872, 2014.
+B8. D. Han and G. Chesi. Robust synchronization via homogeneous parameter-dependent polynomial contraction matrix. **IEEE Transactions on Circuits and Systems I: Regular Papers**{: style="color: RoyalBlue;"}, 61(10):2931-2940, 2014.
 
-B9. D. Han and G. Chesi. Homogeneous polynomial Lyapunov functions for robust local synchronization with time-varying uncertainties. **IET Control Theory and Applications**{: style="color: RoyalBlue;"}, 8(10):855-862, 2014.
+B9. D. Han and G. Chesi. Robust consensus for uncertain multi-agent systems with discrete-time dynamics. **International Journal of Robust and Nonlinear Control**{: style="color: RoyalBlue;"}, 24(13):1858-1872, 2014.
 
-B10. D. Han, G. Chesi, and Y. S. Hung. Robust consensus for a class of uncertain multi-agent dynamical systems. **IEEE Transactions on Industrial Informatics**{: style="color: RoyalBlue;"}, 9(1):306-312, 2013.
+B10. D. Han and G. Chesi. Homogeneous polynomial Lyapunov functions for robust local synchronization with time-varying uncertainties. **IET Control Theory and Applications**{: style="color: RoyalBlue;"}, 8(10):855-862, 2014.
 
-B11. D. Han and G. Chesi. Synchronization conditions for multi-agent systems with intrinsic nonlinear dynamics. **IEEE Transactions on Circuits and Systems II**{: style="color: RoyalBlue;"}, 60(4):227-231, 2013.
+B11. D. Han, G. Chesi, and Y. S. Hung. Robust consensus for a class of uncertain multi-agent dynamical systems. **IEEE Transactions on Industrial Informatics**{: style="color: RoyalBlue;"}, 9(1):306-312, 2013.
 
-B12. D. Han and Y. Zhang. Comprehensive optimization of static/dynamic reactive power for receiving-end network. **Electric Power Automation Equipment**{: style="color: RoyalBlue;"}, 29(3):32-35, 2009.
+B12. D. Han and G. Chesi. Synchronization conditions for multi-agent systems with intrinsic nonlinear dynamics. **IEEE Transactions on Circuits and Systems II**{: style="color: RoyalBlue;"}, 60(4):227-231, 2013.
 
-B13. D. Han and Y. Zhang. Impact of multi-infeed system transmission channel on voltage stability of receiving-end system. **Power Distribution and Utilization**{: style="color: RoyalBlue;"}, 6(4):45-49, 2008.
+B13. D. Han and Y. Zhang. Comprehensive optimization of static/dynamic reactive power for receiving-end network. **Electric Power Automation Equipment**{: style="color: RoyalBlue;"}, 29(3):32-35, 2009.
+
+B14. D. Han and Y. Zhang. Impact of multi-infeed system transmission channel on voltage stability of receiving-end system. **Power Distribution and Utilization**{: style="color: RoyalBlue;"}, 6(4):45-49, 2008.
 
 
