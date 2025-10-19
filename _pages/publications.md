@@ -63,7 +63,7 @@ A27. D. Han, Y. Zhang, and Z. Wu.  Probability analysis of voltage  collapse  ba
 
 B. Selected Journal Publications
 ======
-B1. L. Y. KWONG, and D. Han. Design Optimization of Vortex-Induced Vibration Bladeless Wind Turbines for Urban Energy Harvesting. **Trends in Renewable Energy**{: style="color: RoyalBlue;"}, 11(2): 255-279, 2025.
+B1. L. Y. Kwong, and D. Han. Design Optimization of Vortex-Induced Vibration Bladeless Wind Turbines for Urban Energy Harvesting. **Trends in Renewable Energy**{: style="color: RoyalBlue;"}, 11(2): 255-279, 2025.
 
 B2. D. Han, Y. Huang, H. Huang, and T. Fang “Distributed Coordination for Multi-Vehicle Systems in the Presence of Misbehaving Vehicles. **Mechanical and Aerospace Engineering**{: style="color: RoyalBlue;"}, pp. 656-662, 2025.
 
