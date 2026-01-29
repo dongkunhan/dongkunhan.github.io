@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-> ***"Acknowledging what you don't know is the dawning of wisdom。 -- Charles T. Munger"***{: style="color: Black;"}
+> ***"Acknowledging what you don't know is the dawning of wisdom. -- Charles T. Munger"***{: style="color: Black;"}
 
 * **Best Presentation Award**{: style="color: RoyalBlue;"} 
 
