@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-> ***"May you be unwavering day and night loyal to yourself. The best is yet to come"***{: style="color: Black;"}
+> ***"Acknowledging what you don't know is the dawning of wisdom。 -- Charles T. Munger"***{: style="color: Black;"}
+
+* **Best Presentation Award**{: style="color: RoyalBlue;"} 
+
+    “A Dynamic Distance-Weighted KNN model for Customized Mathematics Education” in the [9th International Conference on Digital Technology in Education](https://www.icdte.org/) (12/2025)
 
 * **Plenary Speaker**{: style="color: darkgreen;"} 
 
