@@ -4,7 +4,7 @@ title: "Selected Journal Publications"
 permalink: /publications/
 author_profile: true
 ---
-======
+
 S. Shen, Z. Xiao, D. Han, TabSynergy: Leveraging large language models for high-quality feature generation and augmentation in small tabular datasets, **Neurocomputing**{: style="color: RoyalBlue;"}, (662), 131859, 2026.
 
 T. Fang, and D. Han. Global Connectivity Maintenance in Distributed Coordination: An Eigen-Estimator based Control Barrier Function Method. **Unmanned Systems**{: style="color: RoyalBlue;"}, 2025.
