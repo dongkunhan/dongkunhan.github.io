@@ -16,6 +16,8 @@ author_profile: true
 --------------------------
 * **ROSE5730 Autonomous Mobile Robots**
 
+* **MAEG5910 MSc Projects** 
+
 **Faculty Foundation Course**{: style="color: RoyalBlue;" }
 ----------------------
 
@@ -32,11 +34,11 @@ author_profile: true
 
 * **MAEG2601 Technology, Society and Engineering Practice** 
 
-* **MAEG2602 Professional Practicum** 
+* **MAEG2602 Professional Practicum**
+
+* **MAEG4050 Modern Control System Analysis and Design**
 
 * **MAEG4999 Final Year Project**
-
-* **MAEG5910 MSc Projects** 
 
 * **ELEG2202 Fundamentals of Electric Circuits**
 
@@ -48,7 +50,9 @@ author_profile: true
 * **GENA1113 Student-Oriented Teaching and Seminar**
 
 * **UGEB1307 Energy and Green Society**
-* **UGEB1407 Demystifying Artificial Intelligence** 
+  
+* **UGEB1407 Demystifying Artificial Intelligence**
+  
 * **UGEB2303 Robots in Action** 
 
 
