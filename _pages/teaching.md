@@ -12,6 +12,10 @@ author_profile: true
 
 * **ENGG1910 Demystifying Artificial Intelligence**
 
+**Engineering Master of Science Course**{: style="color: RoyalBlue;"}
+--------------------------
+* **ROSE5730 Autonomous Mobile Robots**
+
 **Faculty Foundation Course**{: style="color: RoyalBlue;" }
 ----------------------
 
@@ -41,7 +45,8 @@ author_profile: true
 **General Education Course**{: style="color: RoyalBlue;" }
 ------------------------
 
-* **GENA1113 Student-Oriented Teaching and Seminar** 
+* **GENA1113 Student-Oriented Teaching and Seminar**
+
 * **UGEB1307 Energy and Green Society**
 * **UGEB1407 Demystifying Artificial Intelligence** 
 * **UGEB2303 Robots in Action** 
