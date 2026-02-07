@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Dongkun Han is currently a senior lecturer at the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong. 
-> ***“I design and study educational technology, including AI, robotics, and experiential learning, to amplify good teaching. Every class is a prototype I improve together with students: prototype, test, reflect, improve. Humility keeps me learning; evidence keeps me honest; students keep me inspired.”***{: style="color: RoyalBlue;"} 
+> ***“I design and study educational technology in AI, robotics, and experiential learning, to make teaching more effective. Every class is a co‑created prototype I improve together with students: prototype → test → reflect → improve. Humility keeps me learning. Evidence keeps me honest. Students keep me inspired.”***{: style="color: RoyalBlue;"} 
 
 He obtained his Ph.D. degree at the Department of Electrical and Electronic Engineering from the University of Hong Kong. He was a research associate at the Department of Informatics, Technical University of Munich, Germany, and was a research fellow at the Department of Aerospace Engineering, the University of Michigan, Ann Arbor, United States. He held visiting research position at the Information Systems Laboratory at Stanford University, USA, and served as a visiting academic faculty member at the Department of Electrical Engineering, the German Institute of Science and Technology-TUM Asia in Singapore. The focus of his research is on the AI technology for engineering education, cooperative control of multi-agent systems, and robustness of uncertain systems.
 
