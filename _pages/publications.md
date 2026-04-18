@@ -4,6 +4,7 @@ title: "Selected Journal Publications"
 permalink: /publications/
 author_profile: true
 ---
+S. Shen, N. Liu, L. Song and D. Han, MathScrub: Single-Pipeline Strikeout Removal and LaTeX Generation for Handwritten Calculus Expressions, **IEEE Transactions on Learning Technologies**{: style="color: RoyalBlue;"},  19(8):141-154, 2026,
 
 S. Shen, Z. Xiao, D. Han, TabSynergy: Leveraging large language models for high-quality feature generation and augmentation in small tabular datasets, **Neurocomputing**{: style="color: RoyalBlue;"}, (662), 131859, 2026.
 
