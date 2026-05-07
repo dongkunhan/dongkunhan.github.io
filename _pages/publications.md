@@ -4,7 +4,7 @@ title: "Selected Journal Publications"
 permalink: /publications/
 author_profile: true
 ---
-S. Shen, N. Liu, L. Song and D. Han, MathScrub: Single-Pipeline Strikeout Removal and LaTeX Generation for Handwritten Calculus Expressions, **IEEE Transactions on Learning Technologies**{: style="color: RoyalBlue;"},  19(8):141-154, 2026,
+S. Shen, N. Liu, L. Song and D. Han, MathScrub: Single-Pipeline Strikeout Removal and LaTeX Generation for Handwritten Calculus Expressions, **IEEE Transactions on Learning Technologies**{: style="color: RoyalBlue;"},  19(8):141-154, 2026.
 
 S. Shen, Z. Xiao, D. Han, TabSynergy: Leveraging large language models for high-quality feature generation and augmentation in small tabular datasets, **Neurocomputing**{: style="color: RoyalBlue;"}, (662), 131859, 2026.
 
@@ -40,6 +40,12 @@ D. Han and Y. Zhang. Impact of multi-infeed system transmission channel on volta
 
 Selected Conference Publications
 ======
+D. Han, Towards Effective Mathematics Teaching: A Personalized E-Learning System Using Academic Performance Prediction, **In Proceedings of IEEE International Conference on Teaching, Assessment, and Learning for Engineering**{: style="color: RoyalBlue;"}, 81-87, 2025.
+
+D. Han and M. Y. -Y. Leung, Student-Directed Flipped Classroom for Experimental and Sustainability Education: A Case Study in Hong Kong, **In Proceedings of the International Conference on Modern Educational Technology**{: style="color: RoyalBlue;"}, 1001-1005, 2025.
+
+D. Han and M. Y. -Y. Leung, A Dynamic Distance-Weighted KNN Model for Customized Mathematics Education, **In Proceedings of the International Conference on Digital Technology in Education**{: style="color: RoyalBlue;"}, 72-83, 2025.
+
 D. Han, and S. Shen, Deep Reinforcement Learning for Autonomous Driving with Multi-Scenario Fusion: A Unified Reward Function Approach, **In Proceedings of the International Conference on Machine Learning and Machine Intelligence**{: style="color: RoyalBlue;"}, 78-84, 2024.
 
 D. Han, and B. Shao, Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot, **In Proceedings of the International Conference on Control and Robotics**{: style="color: RoyalBlue;"}, 656-662, 2024.
