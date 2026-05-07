@@ -9,7 +9,7 @@ author_profile: true
 
 **Faculty Service Course**{: style="color: RoyalBlue;"}
 --------------------------
-* **ENGG1111 Artificial Intelligence Literacy workshop** (with Professor [Calvin Chan](https://www.ie.cuhk.edu.hk/faculty/chan-chun-kit-calvin/))
+* **ENGG1111 Artificial Intelligence Literacy Workshop** (with Professor [Calvin C. K. Chan](https://www.ie.cuhk.edu.hk/faculty/chan-chun-kit-calvin/))
 
 * **ENGG1910 Demystifying Artificial Intelligence**
 
