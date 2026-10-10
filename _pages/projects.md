@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-* **The Innovation and Technology Fund (ITF) - Innovation and Technology Support Programme**{: style="color: RoyalBlue;"}, PSopt-Q: A Quantum Power System Optimization Tool for Next-Generation Smart Grid Applications and Education
+* **The Innovation and Technology Fund - Innovation and Technology Support Programme**{: style="color: RoyalBlue;"}, PSopt-Q: A Quantum Power System Optimization Tool for Next-Generation Smart Grid Applications and Education
 
-  **Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, Innovation and Technology Commission, 6/2026-11/2027, HKD$1,224,060.
+  **Co-Investigator**{: style="color: RoyalBlue; opacity: 0.80;" }, Innovation and Technology Commission of Hong Kong, 6/2026-11/2027, HKD$1,224,060.
 
 * **Teaching Development and Language Enhancement Grant for the 2022-25 Triennium**{: style="color: RoyalBlue;"}, An AI-enhanced Adaptive and Individualized eLearning System for Mathematics Foundation Courses in the Faculty of Engineering
 
